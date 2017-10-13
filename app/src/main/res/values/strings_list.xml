@@ -1,0 +1,64 @@
+<resources>
+
+    <array name="images_array">
+        <item>http://www.fakezone.com.br/android/img/LoginActivity.jpg</item>
+        <item>http://www.fakezone.com.br/android/img/pic2.jpg</item>
+        <item>http://www.fakezone.com.br/android/img/pic3.jpg</item>
+        <item>http://www.fakezone.com.br/android/img/pic4.jpg</item>
+        <item>http://www.fakezone.com.br/android/img/pic5.jpg</item>
+        <item>http://www.fakezone.com.br/android/img/pic6.jpg</item>
+        <item>http://www.fakezone.com.br/android/img/pic7.jpg</item>
+        <item>http://www.fakezone.com.br/android/img/pic8.jpg</item>
+        <item>http://www.fakezone.com.br/android/img/pic9.jpg</item>
+    </array>
+
+    <array name="headline_array">
+        <item>Invocar activity passando parâmetros</item>
+        <item>headline 002</item>
+        <item>headline 003</item>
+        <item>headline 004</item>
+        <item>headline 005</item>
+        <item>headline 006</item>
+        <item>headline 007</item>
+        <item>headline 008</item>
+        <item>headline 009</item>
+    </array>
+
+    <array name="description_array">
+        <item>Passagem de Parâmetros entre activities. ActionButton para retornar tela anterior.
+        </item>
+        <item>Description 002</item>
+        <item>Description 003</item>
+        <item>Description 004</item>
+        <item>Description 005</item>
+        <item>Description 006</item>
+        <item>Description 007</item>
+        <item>Description 008</item>
+        <item>Description 009</item>
+    </array>
+
+    <array name="activity_array">
+        <item>LoginActivity</item>
+        <item>Activity 002</item>
+        <item>Activity 003</item>
+        <item>Activity 004</item>
+        <item>Activity 005</item>
+        <item>Activity 006</item>
+        <item>Activity 007</item>
+        <item>Activity 008</item>
+        <item>Activity 009</item>
+    </array>
+
+    <array name="date_array">
+        <item>13/10/2017 08:38</item>
+        <item>Date 002</item>
+        <item>Date 003</item>
+        <item>Date 004</item>
+        <item>Date 005</item>
+        <item>Date 006</item>
+        <item>Date 007</item>
+        <item>Date 008</item>
+        <item>Date 009</item>
+    </array>
+
+</resources>

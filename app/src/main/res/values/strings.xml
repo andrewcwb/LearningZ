@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LearningZ</string>
+
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancelar</string>
+    <string name="loginFaild">Usuário ou senha inválidos</string>
+    <string name="loginCanceled">Você Cancelou</string>
+    <string name="welcome">Bem Vindo</string>
+    <string name="successfulReturn">Retorno para página anterior efetuado.</string>
+
+
+
+</resources>
